@@ -24,6 +24,15 @@ This project is part of the Alx School curriculum and it's focused on the basics
 ### 0-positive_or_negative.py
 
 A program that assigns a random signed number to the variable `number` each time it is executed and then determines if the number is positive, negative, or zero. 
+#### instructions
+- Complete this source code  <a href="https://github.com/alx-tools/0x01.py/blob/master/0-positive_or_negative_py">here</a>
+- The variable `number`  will store a different value every time you will run this program
+- You don’t have to understand what`import`, `random.` `randint` do.
+- The output of the program should be the number followed by 
+		if the number is greater than 0: is positive
+		if the number is 0: is zero
+		if the number is less than 0: is negative
+	follwed by a new line.
 
 ### 1-last_digit.py
 
